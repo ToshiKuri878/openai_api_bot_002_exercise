@@ -31,7 +31,8 @@ def communicate():
 
 # ユーザーインターフェイスの構築
 st.title("リスクテイク戦略")
-st.write("ChatGPT 3.5 turbo (API)を使ったチャットボットです。※ブラウザの自動翻訳機能使用不可")
+st.write("ChatGPT 3.5 turbo (API)を使ったチャットボットです。")
+st.write("※ブラウザの自動翻訳機能使用不可")
 
 user_input = st.text_input("メッセージを入力してください。", key="user_input", on_change=communicate)
 
