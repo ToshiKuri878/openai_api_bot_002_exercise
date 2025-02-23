@@ -1,1 +1,1 @@
-# -ToshiKuri878-Joined-yesterday-Find-a-repository-openai_api_bot_002_exercise
+# openai_api_bot_002_exercise
