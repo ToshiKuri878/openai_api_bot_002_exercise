@@ -30,7 +30,7 @@ def communicate():
 
 
 # ユーザーインターフェイスの構築
-st.title("リスクテイク戦略")
+st.title("リスクテイク戦略２")
 st.write("ChatGPT 3.5 turbo (API)を使ったチャットボットです。")
 st.write("※ブラウザの自動翻訳機能使用不可")
 
